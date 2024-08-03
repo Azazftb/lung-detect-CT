@@ -39,23 +39,40 @@ The project includes a comprehensive analysis of the models, comparing their per
 
 ## 🗂️ Project Folder Structure
 
-data/
+data/ 
+
 ├── raw_data/
+
 │   ├── adenocarcinoma/
+
 │   ├── largeCellCarcinoma/
+
 │   ├── normal/
+
 │   └── squamousCellCarcinoma/
+
 ├── processed_data/
+
 │   ├── train/
+
 │   │   ├── non-cancerous/
+
 │   │   └── cancerous/
+
 │   ├── val/
+
 │   │   ├── non-cancerous/
+
 │   │   └── cancerous/
+
 │   └── test/
+
 │       ├── non-cancerous/
+
 │       └── cancerous/
+
 └── Colab Notebooks/
+
     └── lung-detect-CT.ipynb
 
 

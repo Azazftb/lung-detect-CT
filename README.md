@@ -72,8 +72,8 @@ data/
 │       └── cancerous/
 
 └── Colab Notebooks/
-
     └── lung-detect-CT.ipynb
+    
 
 
 
